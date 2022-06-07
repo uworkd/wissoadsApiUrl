@@ -1,2 +1,6 @@
-{"message":"bearfight",
-"new_package_nm":"simulatorfight.beargame.huntseek"}
+{
+  "0": "prZlppdeJdiCobTRdTuJFJ_l0noCd8JRMKaTWvg393WuZBZTtG-TpH6yb94QCGSpwDI5sl5vm8padJLArrMhBc", 
+  "banner": "banner_id", 
+  "interstitial": "interstitial_id",
+  "rewarded": "rewarded_id"
+}
